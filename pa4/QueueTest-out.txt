@@ -1,0 +1,14 @@
+
+List of tests passed/failed:
+
+easy_test PASSED
+medium_test PASSED
+hard_test PASSED
+breaker_test PASSED
+exception_test PASSED
+
+
+Passed 5 tests out of 5 possible
+
+This gives you a score of 25 / 25 for this component of the assignment
+
